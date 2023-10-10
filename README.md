@@ -1,6 +1,5 @@
 # IncomeTaxCalculator
- Income Tax Calculator
- 
+
 <P>declare</P>
 <P>l_result number;</P>
 <P>begin</P>
